@@ -25,25 +25,26 @@ export const WorkGridItem = ({
   id,
   title,
   thumbnail,
+  href,
   techs = []
 }) => (
   <Box w="100%" textAlign="center">
-    <NextLink href={`/works/${id}`}>
+    <NextLink href={href}>
       <LinkBox cursor="pointer">
         <Image
           src={thumbnail}
           alt={title}
           className="grid-item-thumbnail"
           placeholder="blur"
+          loading="lazy"
         />
-        <LinkOverlay href={`/works/${id}`}>
+        <LinkOverlay>
           <Text mt={2} fontSize={20}>
             {title}
           </Text>
         </LinkOverlay>
         <Text fontSize={14}>
           {children}
-
           <Heading as="h3" fontSize={16} textAlign="left" my={4}>
             Used Tech stack
           </Heading>
