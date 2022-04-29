@@ -71,7 +71,14 @@ const Navbar = props => {
           flexGrow={1}
           mt={{ base: 4, md: 0 }}
         >
-          <LinkItem href="/works" path={path}>
+          <LinkItem
+            href="/works"
+            path={path}
+            display="inline-flex"
+            alignItems="center"
+            style={{ gap: 4 }}
+            pl={2}
+          >
             Works
           </LinkItem>
           <LinkItem
@@ -86,6 +93,15 @@ const Navbar = props => {
             <IoLogoGithub />
             Source
           </LinkItem>
+          <a
+            href="/cv.pdf"
+            download
+            display="inline-flex"
+            style={{ gap: 4 }}
+            pl={2}
+          >
+            Download CV
+          </a>
         </Stack>
 
         <Box flex={1} align="right">
@@ -108,6 +124,9 @@ const Navbar = props => {
                 </NextLink>
                 <MenuItem as={Link} href="https://github.com/KramerEd/KramerEd">
                   View Source
+                </MenuItem>
+                <MenuItem as={Link} href="/cv.pdf">
+                  Download CV
                 </MenuItem>
               </MenuList>
             </Menu>
