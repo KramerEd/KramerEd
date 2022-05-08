@@ -16,4 +16,4 @@ I teach children about such technologies as HTML and CSS, JS, Python, Figma, Pho
 - Node.js
 - MongoDB #
 
-# Also I like an idea of single codebase to an every platform, I study Flutter as a hobby.
+### Also I like an idea of single codebase to an every platform, I study Flutter as a hobby.
