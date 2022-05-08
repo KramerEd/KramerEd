@@ -14,6 +14,6 @@ I teach children about such technologies as HTML and CSS, JS, Python, Figma, Pho
 - React Native 
 - GraphQL
 - Node.js
-- MongoDB #
+- MongoDB 
 
 ### Also I like an idea of single codebase to an every platform, I study Flutter as a hobby.
