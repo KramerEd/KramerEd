@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kramer-ed.vercel.app/">My site     </a>
+<a href="https://kramer-ed.vercel.app/" margin="50px">My site     </a>
 <a href="https://www.linkedin.com/in/ed-kramer-bb0811234/">LinkedIN      </a>
 <a href="mailto:kramer.ed.99@gmail.com">Email</a>
 </p>
