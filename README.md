@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/HJ24PvfK"/>
+<img src="https://i.postimg.cc/sXF6xtKV/kramered.jpg"/>
 
 <h2>Hello, reader, and welcome to my Github profile!</h2>
 
