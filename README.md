@@ -1,4 +1,4 @@
-[kramered.jpg](https://postimg.cc/HJ24PvfK)
+<img src="https://postimg.cc/HJ24PvfK"/>
 
 <h2>Hello, reader, and welcome to my Github profile!</h2>
 
