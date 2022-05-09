@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kramer-ed.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ed-kramer-bb0811234/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:kramer.ed.99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://kramer-ed.vercel.app/">My site</a>
+<a href="https://www.linkedin.com/in/ed-kramer-bb0811234/">LinkedIN</a>
+<a href="mailto:kramer.ed.99@gmail.com">Email</a>
 </p>
