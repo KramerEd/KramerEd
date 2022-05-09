@@ -2,7 +2,7 @@
 
 <h2>Hello, reader, and welcome to my Github profile!</h2>
 
-<h3>Here you can find some info about me.</h3>
+<h3>Here you can find some info about what a I doing now.</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Teach children with most demanded technologies.
@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kramer-ed.vercel.app/" margin="50px">My site     </a>
-<a href="https://www.linkedin.com/in/ed-kramer-bb0811234/">LinkedIN      </a>
+<a href="https://kramer-ed.vercel.app/" margin=50>My site</a>
+<a href="https://www.linkedin.com/in/ed-kramer-bb0811234/">LinkedIN</a>
 <a href="mailto:kramer.ed.99@gmail.com">Email</a>
 </p>
