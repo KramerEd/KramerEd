@@ -1,8 +1,8 @@
 ## Hi, reader! 
 
 ###My name is Ed, I'm Front-end developer based in Odessa.
+<details>![KramerEd stats](https://github-readme-stats.vercel.app/api?username=KramerEd&show_icons=true) </details>
 
-![KramerEd stats](https://github-readme-stats.vercel.app/api?username=KramerEd&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KramerEd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
