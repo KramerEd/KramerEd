@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KramerEd&layout=compact)](https://github.com/KramerEd)
+<div float="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KramerEd&layout=compact)](https://github.com/KramerEd)</div>
 Good day, reader!
 My name is Ed and I'm Front-end developer.
 
