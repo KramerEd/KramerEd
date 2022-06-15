@@ -12,5 +12,10 @@
 </details>
 <hr>
 Reach me with: 
-<a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/></a>
+<ul>
+  <li>
+  <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/></a>
+  </li>
+</ul>
+
 
