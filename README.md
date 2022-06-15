@@ -13,5 +13,5 @@
 
 Reach me with: 
 <ul>
-    <a href="https://t.me/kramer_eds" target="_blank"><img src="https://img.shields.io/badge/Telegram-Open%20telegram-blue"/></a>
+    <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-Open%20telegram-blue?style=flat&logo=appveyor"/></a>
 </ul>
