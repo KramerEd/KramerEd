@@ -13,7 +13,7 @@
 <hr>
 
  <div>
-  <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/></a>
+  <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/>Let's talk!)</a>
        
   <a href="mailto:kramer.ed.99@gmail.com"><img src="https://img.shields.io/badge/Email-green?style=flat"/></a>
   
