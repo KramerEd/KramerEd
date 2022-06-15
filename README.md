@@ -16,5 +16,7 @@
   <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/></a>
        
   <a href="mailto:kramer.ed.99@gmail.com"><img src="https://img.shields.io/badge/Email-green?style=flat"/></a>
+  
+  <a href="https://www.linkedin.com/in/ed-kramer-bb0811234/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat"/></a>
  </div>
 
