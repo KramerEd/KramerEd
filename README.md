@@ -13,5 +13,7 @@
 
 Reach me with: 
 <ul>
-  <li>Telegram</li>  
+  <li>
+    <a href=""><img src="https://img.shields.io/badge/Telegram-Open%20telegram-blue"/></a>
+  </li>  
 </ul>
