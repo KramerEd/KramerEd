@@ -10,8 +10,7 @@
   <summary>Languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KramerEd&layout=compact)"/>
 </details>
-
+<hr>
 Reach me with: 
-<ul>
-    <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=appveyor?logoWidth=40"/></a>
-</ul>
+<a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=appveyor"/></a>
+
