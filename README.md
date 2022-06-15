@@ -11,11 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KramerEd&layout=compact)"/>
 </details>
 <hr>
-Reach me with: 
-<ul>
- 
-  <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/></a>
-  <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/></a>
-</ul>
 
+ <div>
+  <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/></a>
+       
+  <a href="https://t.me/kramer_eds"><img src="https://img.shields.io/badge/Telegram-blue?style=flat"/></a>
+ </div>
 
