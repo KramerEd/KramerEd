@@ -73,7 +73,7 @@
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://iconape.com/wp-content/files/gm/82643/png/next-js.png"
+			src="https://miro.medium.com/max/1400/1*xsMYIt3m_cleoHcd-Ncozg.png"
 			alt="nextjs"
 			width="40"
 			height="40"
