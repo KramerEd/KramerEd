@@ -12,7 +12,7 @@
 - 💬 Ask me about **whatsoever related to JavaScript :)**
 
 
-<h3 align="left">Connect with me:</h3>
+> <h3 align="center">Connect with me:</h3>
 <p align="left">
 	<a href="https://t.me/kramer_eds" target="blank">
 		<img
