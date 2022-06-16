@@ -1,7 +1,7 @@
 <h1 align="center">Hello, reader! 👋, my name is Ed!</h1>
 <h3 align="center">I'm passionate programmer, junior mentor, constant learner.</h3>
 
-- 🔭 I’m currently working on **in TenThousand company**
+- 🔭 I’m currently working **in TenThousand company**
 
 - 🌱 I’m currently learning **React-Native, GraphQL, Node.js**
 
