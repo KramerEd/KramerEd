@@ -20,7 +20,7 @@
 			align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"
 			alt="kramer_eds"
-			height="30"
+			height="40"
 			width="40"
 		/>
 	</a>
@@ -29,7 +29,7 @@
 			align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
 			alt="https://www.linkedin.com/in/kramered/"
-			height="30"
+			height="40"
 			width="40"
 		/>
 	</a>
@@ -38,7 +38,7 @@
 			align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg"
 			alt="kramer.ed.99@gmail.com"
-			height="30"
+			height="40"
 			width="40"
 		/>
 	</a>
@@ -47,7 +47,7 @@
 			align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
 			alt="kramer_eds"
-			height="30"
+			height="40"
 			width="40"
 		/>
 	</a>
@@ -56,7 +56,7 @@
 			align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg"
 			alt="kramer_eds"
-			height="30"
+			height="40"
 			width="40"
 		/>
 	</a>
@@ -72,8 +72,7 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 			alt="javascript"
-			width="40"
-			height="40"
+			width="40"height="40"
 		/>
 	</a>
 
