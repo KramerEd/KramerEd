@@ -32,8 +32,7 @@
 			height="40"
 			width="40"
 		/>
-	</a>
-	<a href="mailto:kramer.ed.99@gmail.com" target="blank">
+	</a><a href="mailto:kramer.ed.99@gmail.com" target="blank">
 		<img
 			align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg"
