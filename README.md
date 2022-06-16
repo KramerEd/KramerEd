@@ -1,4 +1,4 @@
-<h1 align="center">Hello, reader! 👋,my name is Ed!</h1>
+<h1 align="center">Hello, reader! 👋, my name is Ed!</h1>
 <h3 align="center">Passionate programmer, junior mentor, constant learner.</h3>
 
 - 🔭 I’m currently working on **in TenThousand company**
@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **whatsoever related to JavaScript :)**
 
-- 📫 How to reach me **kramer.ed.99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -74,7 +73,7 @@
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+			src="https://iconape.com/wp-content/files/gm/82643/png/next-js.png"
 			alt="nextjs"
 			width="40"
 			height="40"
@@ -90,7 +89,7 @@
 	</a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+			src="https://www.meme-arsenal.com/memes/8dbad3b5970bee6ccd94acd67238fb49.jpg"
 			alt="nodejs"
 			width="40"
 			height="40"
