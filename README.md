@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for tips **in Front-End development**
 
-- 👨‍💻 View my personal portfolio site [https://kramer-ed.vercel.app/](https://kramer-ed.vercel.app/)
+- 👨‍💻 View my personal portfolio site [https://kramered.vercel.app/](https://kramer-ed.vercel.app/)
 
 - 💬 Ask me about **whatsoever related to JavaScript :)**
 
