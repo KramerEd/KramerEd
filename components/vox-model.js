@@ -77,14 +77,10 @@ const VoxModel = () => {
 			controls.target = target;
 			setControls(controls);
 
-			loadGLTFModel(
-				scene,
-				`models/model${getRandomNumberBetween(1, 5)}.glb`,
-				{
-					receiveShadow: false,
-					castShadow: false,
-				}
-			).then(() => {
+			loadGLTFModel(scene, `models/model5.glb`, {
+				receiveShadow: false,
+				castShadow: false,
+			}).then(() => {
 				animate();
 				setLoading(false);
 			});
