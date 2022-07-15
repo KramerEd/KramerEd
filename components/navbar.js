@@ -4,7 +4,6 @@ import {
 	Container,
 	Box,
 	Link,
-	Stack,
 	Heading,
 	Flex,
 	Menu,
@@ -13,6 +12,7 @@ import {
 	MenuButton,
 	IconButton,
 	useColorModeValue,
+	HStack,
 } from "@chakra-ui/react";
 import { HamburgerIcon } from "@chakra-ui/icons";
 import { IoLogoGithub } from "react-icons/io5";
@@ -51,38 +51,29 @@ const Navbar = (props) => {
 		>
 			<Container
 				display="flex"
+				p={2}
 				maxW="container.md"
-				wrap="wrap"
 				align="center"
-				justify="space-between"
-				padding={1}
+				justifyContent={{ base: "space-between", md: "flex-start" }}
 			>
 				<Flex align="center" mr={5}>
 					<Heading as="h1" size="lg" letterSpacing={"tighter"}>
 						<Logo />
 					</Heading>
 				</Flex>
-				<Stack
+				<HStack
 					direction={{ base: "column", md: "row" }}
 					display={{ base: "none", md: "flex" }}
 					width={{ base: "full", md: "auto" }}
 					alignItems="center"
-					flexGrow={1}
-					mt={{ base: 4, md: 0 }}
+					flex={1}
 				>
-					<LinkItem
-						href="/works"
-						path={path}
-						display="inline-flex"
-						alignItems="center"
-						style={{ gap: 4 }}
-						pl={2}
-					>
+					<LinkItem href="/works" path={path}>
 						Works
 					</LinkItem>
 					<LinkItem
 						target="_blank"
-						href="https://github.com/KramerEd/KramerEd"
+						href="https://github.com/KramerEd"
 						path={path}
 						display="inline-flex"
 						alignItems="center"
@@ -101,11 +92,11 @@ const Navbar = (props) => {
 					>
 						Download CV
 					</a>
-				</Stack>
+				</HStack>
 
-				<Box alignItems="center" justifyContent="center">
+				<Flex gap={"1rem"} alignItems={"center"}>
 					<ThemeToggleButton />
-					<Box display={{ md: "none" }}>
+					<Box display={{ base: "block", md: "none" }}>
 						<Menu isLazy id="navbar-menu">
 							<MenuButton
 								as={IconButton}
@@ -113,6 +104,7 @@ const Navbar = (props) => {
 								variant="outline"
 								aria-label="Options"
 							/>
+
 							<MenuList>
 								<NextLink href="/" passHref>
 									<MenuItem as={Link}>Home</MenuItem>
@@ -126,13 +118,13 @@ const Navbar = (props) => {
 								>
 									View Source
 								</MenuItem>
-								<MenuItem as={Link} href="/cv.pdf">
+								<MenuItem as={Link} href="/cv.pdf" download>
 									Download CV
 								</MenuItem>
 							</MenuList>
 						</Menu>
 					</Box>
-				</Box>
+				</Flex>
 			</Container>
 		</Box>
 	);

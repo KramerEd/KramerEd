@@ -18,7 +18,7 @@ const ThemeToggleButton = () => {
 				initial={{ y: -30, opacity: 0 }}
 				animate={{ y: 0, opacity: 1 }}
 				exit={{ y: 30, opacity: 0 }}
-				transition={{ duration: 0.2 }}
+				transition={{ duration: 0.3 }}
 			>
 				<IconButton
 					aria-label="Toggle theme"
