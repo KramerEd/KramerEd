@@ -79,7 +79,7 @@ const VoxModel = () => {
 
 			loadGLTFModel(
 				scene,
-				`models/model${getRandomNumberBetween(1, 6)}.glb`,
+				`models/model${getRandomNumberBetween(1, 5)}.glb`,
 				{
 					receiveShadow: false,
 					castShadow: false,
