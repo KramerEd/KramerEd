@@ -3,7 +3,6 @@ import Navbar from "../navbar";
 import { Box, Container } from "@chakra-ui/react";
 import VoxModel from "../vox-model";
 import NoSsr from "../no-ssr";
-import Favicon from "../Favicon";
 
 const Main = ({ children, router }) => {
 	return (
@@ -13,7 +12,6 @@ const Main = ({ children, router }) => {
 					name="viewport"
 					content="width=device-width, initial-scale=1"
 				/>
-				<Favicon />
 				<title>Kramer Ed</title>
 			</Head>
 			<Navbar path={router.asPath} />
