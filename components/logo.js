@@ -23,7 +23,7 @@ const LogoBox = styled.span`
 		transform: rotate(25deg) scale(1.15);
 	}
 	img:hover {
-		animation: hover-logo 1s;
+		animation: hover-logo 0.5s;
 	}
 	@keyframes hover-logo {
 		0% {

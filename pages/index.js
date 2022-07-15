@@ -150,6 +150,13 @@ const Page = () => {
 						lessons or improving existing ones. Also lead webinars
 						on a large auditory, about Python.
 					</BioSection>
+					<BioSection>
+						<BioYear>2022-present:</BioYear>
+						Work as a<strong>React developer</strong>develop complex
+						apps with modern technologies. Grow my technical skills
+						in general, also have experience with Mobile
+						development.
+					</BioSection>
 					<Heading as="h3" variant="section-title">
 						Hobbies
 					</Heading>
